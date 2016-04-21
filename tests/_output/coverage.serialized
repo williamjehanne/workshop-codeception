@@ -1,0 +1,227 @@
+<?php
+$coverage = new PHP_CodeCoverage;
+$coverage->setData(array (
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Entity/InvoiceLine.php' => 
+  array (
+    22 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+      3 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #2',
+    ),
+    23 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+      3 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #2',
+    ),
+    24 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+      3 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #2',
+    ),
+    25 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+      3 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #2',
+    ),
+    29 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+      3 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #2',
+    ),
+    30 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+    ),
+    31 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+    ),
+    33 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+    ),
+    34 => NULL,
+    41 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+      3 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #2',
+    ),
+    42 => NULL,
+    49 => 
+    array (
+    ),
+    50 => 
+    array (
+    ),
+    57 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+    ),
+    58 => NULL,
+    65 => 
+    array (
+    ),
+    66 => 
+    array (
+    ),
+    73 => 
+    array (
+      0 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal',
+      1 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0',
+      2 => 'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1',
+    ),
+    74 => NULL,
+    81 => 
+    array (
+    ),
+    82 => 
+    array (
+    ),
+  ),
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Exception.php' => 
+  array (
+  ),
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Controller/OrderController.php' => 
+  array (
+    24 => 
+    array (
+    ),
+    26 => 
+    array (
+    ),
+    28 => 
+    array (
+    ),
+    29 => 
+    array (
+    ),
+    35 => 
+    array (
+    ),
+    36 => 
+    array (
+    ),
+    37 => 
+    array (
+    ),
+    44 => 
+    array (
+    ),
+    45 => 
+    array (
+    ),
+    46 => 
+    array (
+    ),
+    47 => 
+    array (
+    ),
+  ),
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Entity/Invoice.php' => 
+  array (
+  ),
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Gateway/AccountingGateway.php' => 
+  array (
+    18 => 
+    array (
+    ),
+    19 => 
+    array (
+    ),
+    20 => 
+    array (
+    ),
+  ),
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Service/AccountingService.php' => 
+  array (
+    24 => 
+    array (
+    ),
+    26 => 
+    array (
+    ),
+    27 => 
+    array (
+    ),
+    33 => 
+    array (
+    ),
+    34 => 
+    array (
+    ),
+    35 => 
+    array (
+    ),
+    41 => 
+    array (
+    ),
+    42 => 
+    array (
+    ),
+    43 => 
+    array (
+    ),
+  ),
+));
+$coverage->setTests(array (
+  'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotal' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #0' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #1' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Test\\Project\\Entity\\InvoiceLineTest::testComputeTotalFailsWithNegativeValues with data set #2' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UNCOVERED_FILES_FROM_WHITELIST' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+));
+
+$filter = $coverage->filter();
+$filter->setBlacklistedFiles(array (
+  0 => true,
+));
+$filter->setWhitelistedFiles(array (
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Controller/OrderController.php' => true,
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Entity/Invoice.php' => true,
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Entity/InvoiceLine.php' => true,
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Exception.php' => true,
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Gateway/AccountingGateway.php' => true,
+  '/Users/williamjehanne/Documents/Lab/DIC/src/Service/AccountingService.php' => true,
+));
+
+return $coverage;
